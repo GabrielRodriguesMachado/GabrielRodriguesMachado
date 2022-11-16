@@ -1,6 +1,8 @@
 <h1 align="center">Oi, me chamo Gabriel Rodrigues Machado</h1>
 <h3 align="center">Estudante de desenvolvimento web full-stack na Trybe</h3>
 
+- Atualmente estou começando o módulo de Back-end pela Trybe
+- Finalizei os módulos de Fundamentos e Fron-end na Trybe
 - Tenho conhecimento em: **ReactJs, javaScript, HTML, CSS, testes com Jest e RTL**
 
 - Linkedin: [https://www.linkedin.com/in/gabriel-rodrigues-machado-dev/](https://www.linkedin.com/in/gabriel-rodrigues-machado-dev/)
