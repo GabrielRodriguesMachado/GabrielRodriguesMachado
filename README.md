@@ -21,4 +21,4 @@ Aqui estão alguns dos meus projetos que estou orgulhoso de compartilhar:
 Sinta-se à vontade para entrar em contato comigo sobre oportunidades de trabalho, colaborações em projetos ou qualquer outra dúvida:
 
 - 📧 E-mail: [gabrm123@gmail.com](mailto:gabrm123@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/gabriel-rodrigues-machado-dev]([https://www.linkedin.com/in/seu-nome](https://www.linkedin.com/in/gabriel-rodrigues-machado-dev/))
+- 💼 LinkedIn: [linkedin.com/in/gabriel-rodrigues-machado-dev](https://www.linkedin.com/in/gabriel-rodrigues-machado-dev/)
