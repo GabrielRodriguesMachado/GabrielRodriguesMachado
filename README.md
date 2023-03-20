@@ -1,20 +1,24 @@
-<h1 align="center">Oi, me chamo Gabriel Rodrigues Machado</h1>
-<h3 align="center">Estudante de desenvolvimento web full-stack na Trybe</h3>
+# Olá, mundo! 👋
 
-- Atualmente estou começando o módulo de Back-end pela Trybe
-- Finalizei os módulos de Fundamentos e Fron-end na Trybe
-- Tenho conhecimento em: **ReactJs, javaScript, HTML, CSS, testes com Jest e RTL**
+Eu sou [Gabriel](), um desenvolvedor web Full Stack apaixonado por tecnologia e criação de soluções incríveis na web. Adoro aprender e explorar novas tecnologias para me aperfeiçoar e ajudar a construir um mundo melhor através do desenvolvimento.
 
-- Linkedin: [https://www.linkedin.com/in/gabriel-rodrigues-machado-dev/](https://www.linkedin.com/in/gabriel-rodrigues-machado-dev/)
+## 🚀 Habilidades
 
-- Como me contatar: **gabrm123@gmail.com**
+- 🌐 Front-end: HTML, CSS, JavaScript, ReactJS
+- ⚙️ Back-end: NodeJS, Express, TypeScript
+- 🛢️ Banco de Dados: MongoDB, MySQL
+- 🔧 Ferramentas: Git, GitHub, Visual Studio Code
+- 🌱 Estou atualmente aprendendo: Mongoose
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gabriel-rodrigues-machado-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-rodrigues-machado-dev" height="30" width="40" /></a>
-</p>
+## 📦 Projetos
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Aqui estão alguns dos meus projetos que estou orgulhoso de compartilhar:
 
-[![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielRodriguesMachado)](https://github.com/GabrielRodriguesMachado/github-readme-stats)
+1. [A-chat-app](https://github.com/GabrielRodriguesMachado/a-chat-app) - É um aplicativo de chat em tempo real que permite que várias pessoas se conectem simultaneamente e participem da mesma conversa.
+
+## 📫 Entre em contato comigo
+
+Sinta-se à vontade para entrar em contato comigo sobre oportunidades de trabalho, colaborações em projetos ou qualquer outra dúvida:
+
+- 📧 E-mail: [gabrm123@gmail.com](mailto:gabrm123@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gabriel-rodrigues-machado-dev]([https://www.linkedin.com/in/seu-nome](https://www.linkedin.com/in/gabriel-rodrigues-machado-dev/))
