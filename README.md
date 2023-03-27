@@ -15,6 +15,7 @@ Eu sou [Gabriel](), um desenvolvedor web Full Stack apaixonado por tecnologia e 
 Aqui estão alguns dos meus projetos que estou orgulhoso de compartilhar:
 
 1. [A-chat-app](https://github.com/GabrielRodriguesMachado/a-chat-app) - É um aplicativo de chat em tempo real que permite que várias pessoas se conectem simultaneamente e participem da mesma conversa.
+2. [A-car-shop](https://github.com/GabrielRodriguesMachado/a-car-shop) - Este projeto é uma API de gerenciamento de veículos.
 
 ## 📫 Entre em contato comigo
 
