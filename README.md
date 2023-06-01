@@ -4,11 +4,11 @@ Eu sou [Gabriel](), um desenvolvedor web Full Stack apaixonado por tecnologia e 
 
 ## 🚀 Habilidades
 
-- 🌐 Front-end: HTML, CSS, JavaScript, ReactJS
-- ⚙️ Back-end: NodeJS, Express, TypeScript
+- 🌐 Front-end: HTML, CSS, JavaScript, ReactJS, Django
+- ⚙️ Back-end: NodeJS, Express, TypeScript, Python, Django
 - 🛢️ Banco de Dados: MongoDB, MySQL
 - 🔧 Ferramentas: Git, GitHub, Visual Studio Code
-- 🌱 Estou atualmente aprendendo: Mongoose
+- 🌱 Estou atualmente aprendendo: Python
 
 ## 📦 Projetos
 
